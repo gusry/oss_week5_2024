@@ -1,0 +1,4 @@
+"2021312630"
+easy git commands
+add: index regitration
+commit: history recording
